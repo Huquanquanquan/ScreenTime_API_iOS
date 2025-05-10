@@ -1,5 +1,5 @@
 # ScreenTime_API_iOS
-a flutter screen time api demo
+A Flutter plugin for using iOS's ScreenTime API, it's different!
 <br>
 <br>区别于其他 ScreenTimeAPI 的DEMO，
 <br>我制作了三个通道，使其符合专注类型的应用
